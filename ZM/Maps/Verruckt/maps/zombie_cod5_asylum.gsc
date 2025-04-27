@@ -501,8 +501,9 @@ include_weapons()
 	maps\_zombiemode_weapons::add_limited_weapon( "m1911_zm", 0 );
 	maps\_zombiemode_weapons::add_limited_weapon( "freezegun_zm", 1 );
 	maps\_zombiemode_weapons::add_limited_weapon( "crossbow_explosive_zm", 1 );
-	maps\_zombiemode_weapons::add_limited_weapon( "knife_ballistic_zm", 1 );
-
+	maps\_zombiemode_weapons::add_limited_weapon( "knife_ballistic_zm", 1 );         
+        maps\_zombiemode_weapons::add_limited_weapon( "thundergun_zm", 1 );
+   
 	level._uses_retrievable_ballisitic_knives = true;
 
 	precacheItem( "explosive_bolt_zm" );

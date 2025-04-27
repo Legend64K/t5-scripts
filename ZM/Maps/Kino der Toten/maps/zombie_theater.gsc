@@ -240,8 +240,8 @@ include_weapons()
 	include_weapon( "ray_gun_zm" );
 	include_weapon( "ray_gun_upgraded_zm", false );
 
-	include_weapon( "thundergun_zm", true );
-	include_weapon( "thundergun_upgraded_zm", false );
+	include_weapon( "tesla_gun_zm", true );
+	include_weapon( "tesla_gun_upgraded_zm", false );
 	include_weapon( "crossbow_explosive_zm" );
 	include_weapon( "crossbow_explosive_upgraded_zm", false );
 
